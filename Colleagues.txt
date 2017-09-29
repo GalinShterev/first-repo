@@ -1,0 +1,22 @@
+
+--------------1---------------
+What is your name:Kristiana
+Where are you from:Sofia
+What hobbies do you enjoy:Watching movies
+Why did they pick SoftUni:Because she found it interesting to learn to write programs.
+
+
+--------------2---------------
+
+What is your name:Bozhidar
+Where are you from:Sofia
+What hobbies do you enjoy:Riding a bike
+Why did they pick SoftUni:Because of a friend
+
+--------------3---------------
+
+What is your name:Dilyan
+Where are you from:Gabrovo
+What hobbies do you enjoy:Snowboarding, swimming, diving and hiking
+Why did they pick SoftUni:Changing the environment.
+
